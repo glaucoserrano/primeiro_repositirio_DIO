@@ -1,2 +1,2 @@
-# primeiro_repositirio_DIO
-Primeiro repositório criado para bootcamp DIO
+# primeiro_repositorio_DIO
+Este é o primeiro repositório de estudo do bootcamp Digital Innovation One
